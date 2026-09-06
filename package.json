@@ -1,7 +1,7 @@
 {
   "name": "@appneural/os-events",
   "version": "0.1.0",
-  "description": "Event envelope and in-process event bus for Appneural OS projects.",
+  "description": "Event envelope and in-process event bus for APPNEURAL OS projects.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
